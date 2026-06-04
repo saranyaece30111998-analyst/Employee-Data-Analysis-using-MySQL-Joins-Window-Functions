@@ -64,8 +64,8 @@ FROM Employees
 ORDER BY department_id ASC, salary DESC;
 ```
 
-📸 *Screenshot of sorted employees*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="728" height="503" alt="Screenshot 2026-06-04 184920" src="https://github.com/user-attachments/assets/a6056c79-9260-49f0-8a4e-2949579e4a7c" />
+
 
 ---
 
