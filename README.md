@@ -133,8 +133,8 @@ Departments with total employees (including empty ones).
 ### RIGHT JOIN
 Locations with employees (NULL if none).  
 
-📸 *Screenshot of right join results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="672" height="680" alt="RIGHT JOIN LOCATION" src="https://github.com/user-attachments/assets/b689847e-96a5-486e-94bc-4445d816ce08" />
+
 
 ---
 
