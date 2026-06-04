@@ -117,9 +117,8 @@ FROM Employees e
 INNER JOIN Departments_Info d 
 ON e.department_id = d.department_id;
 ```
+<img width="941" height="708" alt="inner join desi" src="https://github.com/user-attachments/assets/2f46f1d2-ea9b-4165-b2a1-5a54bfd2e505" />
 
-📸 *Screenshot of inner join results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
 
