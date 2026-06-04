@@ -167,8 +167,8 @@ Rank employees by salary.
 ### DENSE_RANK()
 Rank employees by salary within each department.  
 
-📸 *Screenshot of dense rank results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="1095" height="645" alt="dept salary rank" src="https://github.com/user-attachments/assets/3da5c2df-d43f-4181-881b-1fb047fbf0c8" />
+
 
 ---
 
