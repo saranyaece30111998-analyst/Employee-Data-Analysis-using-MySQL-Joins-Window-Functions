@@ -159,8 +159,8 @@ Pairs of employees in the same department.
 ### RANK()
 Rank employees by salary.  
 
-📸 *Screenshot of rank results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="768" height="640" alt="rank by salary" src="https://github.com/user-attachments/assets/1d9d875b-900a-44a1-9948-766f5e3d3511" />
+
 
 ---
 
