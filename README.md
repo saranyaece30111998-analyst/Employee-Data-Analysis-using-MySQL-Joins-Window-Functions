@@ -192,6 +192,4 @@ This project demonstrates:
 - **Joins (inner, left, right, cross, self)**
 - **Window functions (RANK, DENSE_RANK, SUM)**
 
-It highlights practical database management and analysis skills using MySQL.
-
-onal “About Me” section** at the end of the README (with your Data Analyst background, skills, and contact links) so recruiters see both your project and your profile in one place?
+It highlights practical database management and analysis skills using MySQL.profile in one place?
