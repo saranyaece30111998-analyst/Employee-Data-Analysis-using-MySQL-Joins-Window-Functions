@@ -194,8 +194,4 @@ This project demonstrates:
 
 It highlights practical database management and analysis skills using MySQL.
 
----
-
-.  
-
-Would you like me to also **add a professional “About Me” section** at the end of the README (with your Data Analyst background, skills, and contact links) so recruiters see both your project and your profile in one place?
+onal “About Me” section** at the end of the README (with your Data Analyst background, skills, and contact links) so recruiters see both your project and your profile in one place?
