@@ -13,8 +13,6 @@ It covers database creation, insertion, clauses, operators, sorting, grouping, j
 ## 🗂 Database & Tables
 - **Database:** `employee`  
 - **Tables:** `Departments_Info`, `Locations`, `Employees`  
-
-```sql
 CREATE TABLE Departments_Info (
   department_id INT PRIMARY KEY,
   department_name VARCHAR(100) NOT NULL UNIQUE
