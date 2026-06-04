@@ -103,8 +103,7 @@ LIMIT 5;
 
 - Departments with less than 3 employees  
 
-📸 *Screenshot of grouped results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
