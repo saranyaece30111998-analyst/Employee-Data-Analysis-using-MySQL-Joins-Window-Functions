@@ -50,8 +50,6 @@ FROM Employees
 WHERE salary > 50000 AND hire_date < '2016-01-01';
 ```
 
-📸 *Screenshot of filtered employees*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
 
@@ -78,10 +76,9 @@ FROM Employees
 WHERE YEAR(hire_date) = 2018 
 ORDER BY hire_date ASC 
 LIMIT 5;
-```
+`
+<img width="835" height="451" alt="2018 HIRE" src="https://github.com/user-attachments/assets/08e5cb54-29b4-45a4-bb7d-c1006be018a0" />
 
-📸 *Screenshot of limited results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
 
