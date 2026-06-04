@@ -98,7 +98,9 @@ LIMIT 5;
 ---
 
 ### GROUP BY & HAVING
-- Maximum salary per location  
+- Maximum salary per location
+- <img width="707" height="377" alt="LOCATION GROUP BY" src="https://github.com/user-attachments/assets/58b3b3da-176e-4234-8217-1577500e3c3c" />
+
 - Departments with less than 3 employees  
 
 📸 *Screenshot of grouped results*  
