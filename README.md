@@ -34,8 +34,8 @@ Retrieve distinct salaries from the Employees table.
 SELECT DISTINCT salary FROM Employees;
 ```
 
-📸 *Screenshot of distinct salary results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="545" height="463" alt="a2 distinct" src="https://github.com/user-attachments/assets/c6f2bad2-0209-416c-aba0-dbc0e3c03348" />
+
 
 ---
 
