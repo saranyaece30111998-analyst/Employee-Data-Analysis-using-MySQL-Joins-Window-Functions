@@ -19,7 +19,8 @@ CREATE TABLE Departments_Info (
   department_id INT PRIMARY KEY,
   department_name VARCHAR(100) NOT NULL UNIQUE
 );
-``<img width="497" height="867" alt="table creation" src="https://github.com/user-attachments/assets/249b806a-504b-46c9-9d49-ad325b0057d3" />
+<img width="497" height="867" alt="table creation" src="https://github.com/user-attachments/assets/62e315d3-5ee9-49a8-9836-2adfb6d243fc" />
+
 
 
 ---
