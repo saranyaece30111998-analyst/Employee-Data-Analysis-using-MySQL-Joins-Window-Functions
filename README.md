@@ -18,13 +18,7 @@ It covers database creation, insertion, clauses, operators, sorting, grouping, j
 CREATE TABLE Departments_Info (
   department_id INT PRIMARY KEY,
   department_name VARCHAR(100) NOT NULL UNIQUE
-);
--- <img width="680" height="852" alt="Screenshot 2026-06-04 180532" src="https://github.com/user-attachments/assets/7615f245-c202-41ea-922a-9c799b51f542" />
-
-
-
-
----
+)
 
 ## 🔑 Clauses & Operators
 
