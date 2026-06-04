@@ -49,6 +49,7 @@ SELECT employee_name
 FROM Employees 
 WHERE salary > 50000 AND hire_date < '2016-01-01';
 ```
+<img width="955" height="422" alt="Screenshot 2026-06-04 182713" src="https://github.com/user-attachments/assets/75374e48-d877-48bd-bce4-b57903b140ef" />
 
 
 ---
