@@ -175,8 +175,8 @@ Rank employees by salary within each department.
 ### Running Total
 Running total salary by department.  
 
-📸 *Screenshot of running total results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="1030" height="711" alt="running total" src="https://github.com/user-attachments/assets/fea5ddb0-69a9-421b-b284-56787011d78d" />
+
 
 ---
 
