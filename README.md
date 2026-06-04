@@ -45,8 +45,8 @@ Alias columns for readability.
 SELECT age AS Employee_Age, salary AS Employee_Salary FROM Employees;
 ```
 
-📸 *Screenshot of alias query results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="758" height="692" alt="employee  age" src="https://github.com/user-attachments/assets/bcf1dc8d-ca8a-426f-843b-603008370541" />
+
 
 ---
 
