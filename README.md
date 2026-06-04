@@ -64,7 +64,8 @@ FROM Employees
 ORDER BY department_id ASC, salary DESC;
 ```
 
-<img width="728" height="503" alt="Screenshot 2026-06-04 184920" src="https://github.com/user-attachments/assets/a6056c79-9260-49f0-8a4e-2949579e4a7c" />
+--<img width="1083" height="632" alt="DESINATION SALARY" src="https://github.com/user-attachments/assets/556dc5d7-59d5-462c-80f3-a9933d9188b5" />
+
 
 
 ### LIMIT
@@ -78,7 +79,7 @@ LIMIT 5;
 ```
 ---
 
-<img width="835" height="451" alt="2018 HIRE" src="https://github.com/user-attachments/assets/08e5cb54-29b4-45a4-bb7d-c1006be018a0" />
+--<img width="835" height="451" alt="2018 HIRE" src="https://github.com/user-attachments/assets/08e5cb54-29b4-45a4-bb7d-c1006be018a0" />
 
 
 ---
