@@ -88,9 +88,10 @@ LIMIT 5;
 ### AGGREGATE FUNCTIONS
 - **Sum of salaries in Finance department**  
 - **Minimum age among employees**
+- <img width="640" height="260" alt="MINIMUM AGE " src="https://github.com/user-attachments/assets/18d58971-a65d-489f-9756-0ce3e904c468" />
 
-📸 *Screenshot of aggregate queries*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
+
 
 ---
 
