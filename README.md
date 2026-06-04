@@ -125,8 +125,8 @@ ON e.department_id = d.department_id;
 ### LEFT JOIN
 Departments with total employees (including empty ones).  
 
-📸 *Screenshot of left join results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="685" height="622" alt="Screenshot 2026-06-04 192747" src="https://github.com/user-attachments/assets/5076466f-bca1-43fa-b3ee-9d3bb4e2d12a" />
+
 
 ---
 
