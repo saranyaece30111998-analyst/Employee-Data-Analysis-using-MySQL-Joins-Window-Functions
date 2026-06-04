@@ -191,5 +191,3 @@ This project demonstrates:
 - **Sorting, grouping, and aggregate functions**
 - **Joins (inner, left, right, cross, self)**
 - **Window functions (RANK, DENSE_RANK, SUM)**
-
-It highlights practical database management and analysis skills using MySQL.profile in one place?
