@@ -101,6 +101,7 @@ LIMIT 5;
 - <img width="707" height="377" alt="LOCATION GROUP BY" src="https://github.com/user-attachments/assets/58b3b3da-176e-4234-8217-1577500e3c3c" />
 
 - Departments with less than 3 employees  
+-<img width="638" height="437" alt="HAVING LESS 3 EMPLOYEES" src="https://github.com/user-attachments/assets/4ded7d89-7083-493a-9360-862942bcb502" />
 
 
 
