@@ -76,7 +76,8 @@ FROM Employees
 WHERE YEAR(hire_date) = 2018 
 ORDER BY hire_date ASC 
 LIMIT 5;
-`
+---
+
 <img width="835" height="451" alt="2018 HIRE" src="https://github.com/user-attachments/assets/08e5cb54-29b4-45a4-bb7d-c1006be018a0" />
 
 
