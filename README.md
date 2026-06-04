@@ -141,8 +141,8 @@ Locations with employees (NULL if none).
 ### CROSS JOIN
 All possible combinations of departments and locations.  
 
-📸 *Screenshot of cross join results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="766" height="642" alt="CROSS JOIN" src="https://github.com/user-attachments/assets/a7734677-23e0-4974-a1e2-5380d2f05624" />
+
 
 ---
 
