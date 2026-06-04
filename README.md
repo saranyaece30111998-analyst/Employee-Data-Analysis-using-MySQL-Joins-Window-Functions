@@ -149,8 +149,8 @@ All possible combinations of departments and locations.
 ### SELF JOIN
 Pairs of employees in the same department.  
 
-📸 *Screenshot of self join results*  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+<img width="998" height="743" alt="self join employee" src="https://github.com/user-attachments/assets/0428f4af-ed71-4f7d-8693-4cb6f42f5ce9" />
+
 
 ---
 
