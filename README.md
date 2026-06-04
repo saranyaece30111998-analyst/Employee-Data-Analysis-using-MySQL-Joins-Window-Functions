@@ -86,7 +86,9 @@ LIMIT 5;
 ---
 
 ### AGGREGATE FUNCTIONS
-- **Sum of salaries in Finance department**  
+- **Sum of salaries in Finance department**
+- <img width="776" height="321" alt="FINANCE ANALYST SALARY" src="https://github.com/user-attachments/assets/ff0fce95-c53c-49d8-a49b-429a41082057" />
+ 
 - **Minimum age among employees**
 - <img width="640" height="260" alt="MINIMUM AGE " src="https://github.com/user-attachments/assets/18d58971-a65d-489f-9756-0ce3e904c468" />
 
