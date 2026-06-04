@@ -196,6 +196,6 @@ It highlights practical database management and analysis skills using MySQL.
 
 ---
 
-👉 You just need to replace each `![Screenshot](screenshots/...)` with the actual screenshot paths from your repo.  
+.  
 
 Would you like me to also **add a professional “About Me” section** at the end of the README (with your Data Analyst background, skills, and contact links) so recruiters see both your project and your profile in one place?
